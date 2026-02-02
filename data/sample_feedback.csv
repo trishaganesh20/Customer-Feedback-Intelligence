@@ -1,0 +1,11 @@
+id,date,source,rating,text
+1,2025-12-01,app_store,2,"App crashes when I open notifications."
+2,2025-12-02,app_store,5,"Love the new layout, it's much easier to use."
+3,2025-12-02,support_ticket,1,"I was charged twice and support hasn't replied."
+4,2025-12-03,nps,3,"It's okay but logging in takes too long sometimes."
+5,2025-12-05,support_ticket,2,"Can't reset my password. The link never works."
+6,2025-12-06,app_store,4,"Great features overall, but search could be better."
+7,2025-12-06,nps,1,"Terrible experience. Keeps freezing and I lose progress."
+8,2025-12-07,app_store,2,"Billing is confusing. I don't understand the subscription."
+9,2025-12-08,support_ticket,4,"Support was helpful, but the issue took too long to fix."
+10,2025-12-09,nps,2,"Notifications feel irrelevant and too frequent."
