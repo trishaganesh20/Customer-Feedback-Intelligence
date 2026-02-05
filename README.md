@@ -118,3 +118,8 @@ Dashboards & Executive Insights
 -VS Code
 
 -GitHub
+
+**Demo Video:** (used sample data already provided)
+
+https://github.com/user-attachments/assets/aa8ed60e-e3e2-47a7-92cb-df7ae3486c5a
+
